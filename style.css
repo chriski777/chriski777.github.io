@@ -14,7 +14,14 @@
 a {
   color: #508acd;
 }
-
+#name {
+	color: black;
+	margin-bottom:0.25em;
+}
+#name_div {
+	padding-top: 6.5em;
+	text-align: center;
+}
 .wrapper {
  display:block;
  overflow:hidden;
